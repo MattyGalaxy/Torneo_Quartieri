@@ -1,0 +1,69 @@
+Pit: 
+-Taglia: L
+-Numero: 9
+-Nome: Cerve
+
+Pasto:
+-Taglia: M
+-Numero: 17
+-Nome: Pasto
+
+Calca:
+-Taglia: M
+-Numero: 99
+-Nome: Calca
+
+Bonny:
+-Taglia: L
+-Numero: 90
+-Nome: Bonny
+
+Giuse:
+-Taglia: M
+-Numero: 10
+-Nome: Dipi
+
+Bomba:
+-Taglia: M
+-Numero: 7
+-Nome: Bomba
+
+Leo:
+-Taglia: L
+-Numero: 18
+-Nome: Leo
+
+Me:
+-Taglia: L
+-Numero: 86
+-Nome: Mazza
+
+Riga:
+-Taglia: M
+-Numero: 88
+-Nome: Riga
+
+Papà:
+-Taglia: XL
+-Numero: 1
+-Nome: Mazza
+
+Gnoma:
+-Taglia: XL
+-Numero: 23
+-Nome: Gaia
+
+Ali:
+-Taglia: M
+-Numero: 23
+-Nome: Ali
+
+Fede:
+-Taglia: M
+-Numero: 11
+-Nome: Fede
+
+Jacopo:
+-Taglia: XL
+-Numero: 28
+-Nome: Jacopo
